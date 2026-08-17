@@ -321,10 +321,8 @@ Přibližně:
 Význam:
 
 - `⏮` – předchozí čitelná stránka,
-- `▶` – začít číst,
-- `■` – stop během čtení,
-- `⏸` – pauza,
-- `▶` po pauze – pokračovat,
+- `▶` – začít číst nebo `■` – stop během čtení,
+- `⏸` – pauza nebo `▶` po pauze pokračovat,
 - `⏭` – následující čitelná stránka,
 - `1×` – rychlost TTS,
 - `Auto` – automaticky pokračovat na další stránku,
@@ -489,7 +487,8 @@ Další vývoj není pro základní používání nutný. Případná budoucí v
 - ukládání rychlosti a nastavení mezi relacemi,
 - výběr konkrétního TTS hlasu,
 - korekce některých typických OCR chyb,
-- záložku / zapamatování poslední přečtené stránky.
+- záložku / zapamatování poslední přečtené stránky,
+- úprava textu OCR při přechodu na novou stránku (rozdělená slova, nedokončená věta).
 
 ---
 
